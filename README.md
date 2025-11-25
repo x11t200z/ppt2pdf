@@ -3,5 +3,5 @@ Với mỗi file .ppt / .pptx:
 - Mở file
 - SaveAs PDF
 - Đóng lại
-- 
+
 Thoát PowerPoint
